@@ -8,7 +8,7 @@ class InicioTela extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title: const Text(
-          'EducaçãoApp',
+          'CursosApp',
           style: TextStyle(
             fontWeight: FontWeight.bold,
           ),
